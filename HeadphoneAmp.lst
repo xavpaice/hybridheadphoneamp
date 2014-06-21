@@ -1,0 +1,77 @@
+eeschema (2012-apr-16-27)-stable  >> Creation date: Thu 22 May 2014 20:32:54 NZST
+
+#Cmp ( order = Reference )
+| C1         4700uF      ;             
+| C2         470uF       ;             
+| C3         10uF        ;             
+| C4         10uF        ;             
+| C5         47uF        ;             
+| C6         47uF        ;             
+| C7         474         ;             
+| C8         474         ;             
+| C9         473         ;             
+| C10        1000uF      ;             
+| C11        1000uF      ;             
+| IC1        7812L       ; v-reg-78XXL 
+| IC2        LM317L      ; v-reg-317L  
+| IC3        LM317L      ; v-reg-317L  
+| K1         CONN_3      ;             
+| K2         CONN_3      ;             
+| P1         CONN_2      ;             
+| P2         B50K        ; Pot-POTL_1  
+| P3         B50K        ; Pot-POTL_1  
+| Q1         IRF540      ; TO220       
+| Q2         IRF540      ; TO220       
+| R1         100K        ;             
+| R2         100K        ;             
+| R3         150R        ;             
+| R4         150R        ;             
+| R5         1K          ;             
+| R6         1K          ;             
+| R7         2K2         ;             
+| R8         2K2         ;             
+| R9         10R         ;             
+| R10        10R         ;             
+| R11        1K          ;             
+| R12        1K          ;             
+| U1         ECC82       ; VALVE-NOVAL_P
+#End Cmp
+
+#Cmp ( order = Value )
+| 1000uF       C10       ;             
+| 1000uF       C11       ;             
+| 100K         R1        ;             
+| 100K         R2        ;             
+| 10R          R9        ;             
+| 10R          R10       ;             
+| 10uF         C3        ;             
+| 10uF         C4        ;             
+| 150R         R3        ;             
+| 150R         R4        ;             
+| 1K           R5        ;             
+| 1K           R6        ;             
+| 1K           R11       ;             
+| 1K           R12       ;             
+| 2K2          R7        ;             
+| 2K2          R8        ;             
+| 4700uF       C1        ;             
+| 470uF        C2        ;             
+| 473          C9        ;             
+| 474          C7        ;             
+| 474          C8        ;             
+| 47uF         C5        ;             
+| 47uF         C6        ;             
+| 7812L        IC1       ; v-reg-78XXL 
+| B50K         P2        ; Pot-POTL_1  
+| B50K         P3        ; Pot-POTL_1  
+| CONN_2       P1        ;             
+| CONN_3       K1        ;             
+| CONN_3       K2        ;             
+| ECC82        U1        ; VALVE-NOVAL_P
+| IRF540       Q1        ; TO220       
+| IRF540       Q2        ; TO220       
+| LM317L       IC2       ; v-reg-317L  
+| LM317L       IC3       ; v-reg-317L  
+#End Cmp
+
+#End List

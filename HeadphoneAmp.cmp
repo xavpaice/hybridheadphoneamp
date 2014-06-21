@@ -1,0 +1,290 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 01 Jun 2014 20:24:01 NZST
+
+BeginCmp
+TimeStamp = /5382FA0A;
+Reference = +VIN1;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53677050;
+Reference = C1;
+ValeurCmp = 4700uF;
+IdModule  = C2V15;
+EndCmp
+
+BeginCmp
+TimeStamp = /53677059;
+Reference = C2;
+ValeurCmp = 470uF;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367536D;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367677A;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /537DB32A;
+Reference = C5;
+ValeurCmp = 47uF;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /537DB36B;
+Reference = C6;
+ValeurCmp = 47uF;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /536765AB;
+Reference = C7;
+ValeurCmp = 474;
+IdModule  = Cap-sm;
+EndCmp
+
+BeginCmp
+TimeStamp = /536767A1;
+Reference = C8;
+ValeurCmp = 474;
+IdModule  = Cap-sm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676567;
+Reference = C9;
+ValeurCmp = 473;
+IdModule  = Cap-sm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367688F;
+Reference = C10;
+ValeurCmp = 1000uF;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /536754F1;
+Reference = C11;
+ValeurCmp = 1000uF;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382FA17;
+Reference = GND1;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382FA52;
+Reference = GND2;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382F9C7;
+Reference = GND3;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676F41;
+Reference = IC1;
+ValeurCmp = 7812L;
+IdModule  = v-reg-78XXL-CLIPHS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676873;
+Reference = IC2;
+ValeurCmp = LM317L;
+IdModule  = v-reg-317-CLIPHS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676180;
+Reference = IC3;
+ValeurCmp = LM317L;
+IdModule  = v-reg-317-CLIPHS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382FA46;
+Reference = L-IN1;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382F9BC;
+Reference = L-OUT1;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /537DB1C2;
+Reference = P2;
+ValeurCmp = B50K;
+IdModule  = PiherTrimpot;
+EndCmp
+
+BeginCmp
+TimeStamp = /537DB257;
+Reference = P3;
+ValeurCmp = B50K;
+IdModule  = PiherTrimpot;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367686F;
+Reference = Q1;
+ValeurCmp = IRF540;
+IdModule  = FET-TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = /53675533;
+Reference = Q2;
+ValeurCmp = IRF540;
+IdModule  = FET-TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382FA48;
+Reference = R-IN1;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382F9C2;
+Reference = R-OUT1;
+ValeurCmp = CONN_1;
+IdModule  = connect-PAD-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367675C;
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367549D;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /536754A8;
+Reference = R3;
+ValeurCmp = 150R;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676758;
+Reference = R4;
+ValeurCmp = 150R;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676532;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676791;
+Reference = R6;
+ValeurCmp = 1K;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676545;
+Reference = R7;
+ValeurCmp = 2K2;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676850;
+Reference = R8;
+ValeurCmp = 2K2;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367687D;
+Reference = R9;
+ValeurCmp = 10R;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /536754BF;
+Reference = R10;
+ValeurCmp = 10R;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /536754D9;
+Reference = R11;
+ValeurCmp = 1K;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53676889;
+Reference = R12;
+ValeurCmp = 1K;
+IdModule  = R-0.25W;
+EndCmp
+
+BeginCmp
+TimeStamp = /538AD560;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = connect-PAD-02;
+EndCmp
+
+BeginCmp
+TimeStamp = /538AD56F;
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = connect-PAD-02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367518D;
+Reference = U1;
+ValeurCmp = ECC82;
+IdModule  = VALVE-NOVAL_P;
+EndCmp
+
+EndListe
